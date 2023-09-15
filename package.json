@@ -1,0 +1,15 @@
+{
+  "name": "apirestdelogin",
+  "version": "1.0.0",
+  "description": "API Rest que recebe dados do front end, Login e Senha, Sendo testado no Postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
